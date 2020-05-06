@@ -1,6 +1,6 @@
-## auto_label
+# auto_label
 
-# Dependencies
+## Dependencies
 Tensorflow >= 1.7.0
 
 OpenCV = 3.x
